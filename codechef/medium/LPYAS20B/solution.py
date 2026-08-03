@@ -1,3 +1,3 @@
 # cook your dish here
-for i in range(1,6):
-    print (f"{i} - {i**2}")
+for i in range(4):
+    print("****")
