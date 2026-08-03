@@ -4,16 +4,18 @@
 
 ## Problem
 
-_Description not available._
+### MCQ on output in separate lines
+
+How do we print output on separate lines in Python?
 
 ## Solution
 
-**Language:** Python  
+**Language:** C++  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-03T17:24:43.959Z  
+**Submitted:** 2026-08-03T17:25:04.490Z  
 
-```py
+```cpp
 print(11*13)
 print(2*(11+13))
 ```
