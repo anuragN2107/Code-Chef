@@ -1,3 +1,3 @@
 a="Learning"
 b="is fun!"
-print(a+b)
+print(f"{a}{b}")
