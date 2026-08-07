@@ -1,3 +1,3 @@
 # cook your dish here
-for i in range(4):
+for i in range(1,5):
     print("****")
