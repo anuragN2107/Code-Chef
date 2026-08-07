@@ -33,12 +33,12 @@ Write a program which does the following
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-07T17:05:42.239Z  
+**Submitted:** 2026-08-07T17:07:07.795Z  
 
 ```py
 a="Learning"
 b="is fun!"
-print(a+b)
+print(f"{a}{b}")
 ```
 
 ---
