@@ -4,6 +4,8 @@
 
 ## Problem
 
+### Print Squares
+
 Write a program to output the squares (using multiplication) of numbers from 1 to 5 on separate lines.
 
 [ **Note:**  Please print in the same format as given below. There are single spaces between hyphen(-) and digits.]
@@ -24,12 +26,12 @@ Write a program to output the squares (using multiplication) of numbers from 1 t
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-03T17:18:27.560Z  
+**Submitted:** 2026-08-07T17:46:19.568Z  
 
 ```py
-# cook your dish here
-for i in range(1,6):
-    print (f"{i} - {i**2}")
+for i in range(1, 6):
+    square= i**2
+    print(f"{i} - {square}")
 ```
 
 ---
