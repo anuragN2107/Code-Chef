@@ -1,3 +1,4 @@
-a=23
-b=20
-print(a+b)
+length=76
+width=45
+area=length*width
+print(area)
