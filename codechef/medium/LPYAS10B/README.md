@@ -32,7 +32,7 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-07T17:40:42.835Z  
+**Submitted:** 2026-08-07T17:40:46.543Z  
 
 ```py
 print("*\n**\n***\n****\n*****")
