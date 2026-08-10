@@ -4,23 +4,23 @@
 
 ## Problem
 
-Given the temperature in Celsius (30 deg C), calculate the temperature in Fahrenheit using the following steps
-
-- Create a variable celsius and initialise it to 30
-- Calculate and print the temperature in Fahrenheit using the formula: (celsius * 9/5) + 32
+_Description not available._
 
 ## Solution
 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-10T17:34:36.525Z  
+**Submitted:** 2026-08-10T17:33:24.027Z  
 
 ```py
 # cook your dish here
-c=30
-f=(c*9/5)+32
-print(f)
+l=9
+b=8
+area=l*b
+peri=(l+b)*2
+print(area)
+print(peri)
 ```
 
 ---
