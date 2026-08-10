@@ -1,4 +1,7 @@
 # cook your dish here
-c=30
-f=(c*9/5)+32
-print(f)
+l=9
+b=8
+area=l*b
+peri=(l+b)*2
+print(area)
+print(peri)
