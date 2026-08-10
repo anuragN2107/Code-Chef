@@ -21,7 +21,7 @@ Write a program to output the square of * (stars) of size 4 (check the output be
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-10T17:23:29.577Z  
+**Submitted:** 2026-08-10T17:23:40.196Z  
 
 ```py
 # cook your dish here
